@@ -1,0 +1,16 @@
+C:\Users\Wes\workspace\csharp\plan-your-heist\bin\Debug\net5.0\plan-your-heist.exe
+C:\Users\Wes\workspace\csharp\plan-your-heist\bin\Debug\net5.0\plan-your-heist.deps.json
+C:\Users\Wes\workspace\csharp\plan-your-heist\bin\Debug\net5.0\plan-your-heist.runtimeconfig.json
+C:\Users\Wes\workspace\csharp\plan-your-heist\bin\Debug\net5.0\plan-your-heist.runtimeconfig.dev.json
+C:\Users\Wes\workspace\csharp\plan-your-heist\bin\Debug\net5.0\plan-your-heist.dll
+C:\Users\Wes\workspace\csharp\plan-your-heist\bin\Debug\net5.0\ref\plan-your-heist.dll
+C:\Users\Wes\workspace\csharp\plan-your-heist\bin\Debug\net5.0\plan-your-heist.pdb
+C:\Users\Wes\workspace\csharp\plan-your-heist\obj\Debug\net5.0\plan-your-heist.csprojAssemblyReference.cache
+C:\Users\Wes\workspace\csharp\plan-your-heist\obj\Debug\net5.0\plan-your-heist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wes\workspace\csharp\plan-your-heist\obj\Debug\net5.0\plan-your-heist.AssemblyInfoInputs.cache
+C:\Users\Wes\workspace\csharp\plan-your-heist\obj\Debug\net5.0\plan-your-heist.AssemblyInfo.cs
+C:\Users\Wes\workspace\csharp\plan-your-heist\obj\Debug\net5.0\plan-your-heist.csproj.CoreCompileInputs.cache
+C:\Users\Wes\workspace\csharp\plan-your-heist\obj\Debug\net5.0\plan-your-heist.dll
+C:\Users\Wes\workspace\csharp\plan-your-heist\obj\Debug\net5.0\ref\plan-your-heist.dll
+C:\Users\Wes\workspace\csharp\plan-your-heist\obj\Debug\net5.0\plan-your-heist.pdb
+C:\Users\Wes\workspace\csharp\plan-your-heist\obj\Debug\net5.0\plan-your-heist.genruntimeconfig.cache
